@@ -1,8 +1,6 @@
 # Spring::Commands::Racli
 
-Welcome to your new gem! In this directory, you'll find the files you need to be able to package up your Ruby library into a gem. Put your Ruby code in the file `lib/spring/commands/racli`. To experiment with that code, run `bin/console` for an interactive prompt.
-
-TODO: Delete this and the text above, and describe your gem
+`racli` command for [Spring](https://github.com/rails/spring)
 
 ## Installation
 
@@ -22,7 +20,15 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+create binstub for racli
+```
+$ bundle exec spring binstub racli
+```
+
+run racli via binstub
+```
+$ bin/racli GET /hello
+```
 
 ## Development
 

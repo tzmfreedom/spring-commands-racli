@@ -9,8 +9,8 @@ Gem::Specification.new do |spec|
   spec.authors       = ['tzmfreedom']
   spec.email         = ['makoto_tajitsu@hotmail.co.jp']
 
-  spec.summary       = %q{spring command for racli}
-  spec.description   = %q{spring command for racli}
+  spec.summary       = %q{racli command for Spring}
+  spec.description   = %q{racli command for Spring}
   spec.homepage      = 'https://github.com/tzmfreedom/spring-commands-racli'
   spec.license       = 'MIT'
 
