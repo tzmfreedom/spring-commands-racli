@@ -1,6 +1,6 @@
 module Spring
   module Commands
-    module Racli
+    class Racli
       VERSION = "0.1.0"
     end
   end
